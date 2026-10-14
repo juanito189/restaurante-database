@@ -1,0 +1,13 @@
+hiii
+
+# archivos del sistema
+.DS_Store
+Thumbs.db
+
+
+#configuracion de IDEs
+.vscode/
+.idea/
+
+#datos temporarles de git o bueno los logs
+*.log
